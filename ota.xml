@@ -2,11 +2,11 @@
  <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
  	<Stable>
  		<n7000>
- 			<Filename>ResurrectionRemix-M-v5.7.4-20160920-n7000.zip</Filename>
+ 			<Filename>ResurrectionRemix-N-v5.8.0-20161206-n7000.zip</Filename>
  			<RomUrl
  				id="rom"
  				title="Rom"
- 				description="Download latest ResurrectionRemix build">https://basketbuild.com/uploads/devs/resurrectionremix/n7000/ResurrectionRemix-M-v5.7.4-20160920-n7000.zip</RomUrl>
+ 				description="Download latest ResurrectionRemix build">https://basketbuild.com/uploads/devs/resurrectionremix/n7000/ResurrectionRemix-N-v5.8.0-20161206-n7000.zip</RomUrl>
  			<ChangelogUrl
  				id="changelog"
  				title="Changelog"
