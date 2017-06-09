@@ -2,11 +2,11 @@
  <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
   <Stable>
    <n7000>
-    <Filename>RR-N-v5.8.3-20170529-n7000-Weekly.zip</Filename>
+    <Filename>RR-N-v5.8.3-20170609-n7000-Nightly.zip</Filename>
      <RomUrl
       id="rom"
       title="Rom"
-      description="Latest ResurrectionRemix build">https://www.androidfilehost.com/?fid=889764386195903138</RomUrl>
+      description="Latest ResurrectionRemix build">https://www.androidfilehost.com/?fid=889764386195906619</RomUrl>
      <ChangelogUrl
       id="changelog"
       title="Changelog"
